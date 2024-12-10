@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "30",
+        "image": "./images/m1.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "35",
+        "image": "./images/m2.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "22",
+        "image": "./images/m3.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "100",
+        "image": "./images/m5.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "69",
+        "image": "./images/m8.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "78",
+        "image": "./images/m7.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "45",
+        "image": "./images/m6.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "39",
+        "image": "./images/m5.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "60",
+        "image": "./images/m4.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "87",
+        "image": "./images/m3.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "90",
+        "image": "./images/m2.png"
+    },
+    {
+        "id": 1,
+        "name": "Coffee",
+        "price": "30",
+        "image": "./images/m1.png"
+    }
+]
